@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=200&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=434&height=45&lines=Daniyusk's+Github" alt="Daniyusk's Github" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:AEAEAE,100:FAFAFA&text=Daniyusk%20Github's&textBg=false&section=header&fontColor=FFFFFF" alt="Daniyusk's Github" />
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Bytesized&pause=1000&color=BFC4D4&center=true&vCenter=true&repeat=false&width=435&lines=In+constant+debug+%E2%80%94+of+life+and+code." alt="In constant debug - of life and code" />
 </div>
@@ -37,9 +37,11 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
     <br><br>
     <p><strong>Tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,visualstudio,androidstudio" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,visualstudio,idea" alt="Tools" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio,unity,godot,robloxstudio,figma,obsidian" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,gamemakerstudio,unity,godot,robloxstudio" alt="Tools" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=figma,obsidian" alt="Tools" />
 </div>
 
 ---
@@ -47,8 +49,8 @@
 <h2 align="center">📝 STATS</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniyusk&theme=react&show_icons=true&hide_border=true&count_private=true" alt="daniyusk's Stats" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyusk&theme=react&hide_border=true" alt="daniyusk's Streak" height="150" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniyusk&theme=react&hide_border=true" height="150" />
 </div>
 
 ---
@@ -59,4 +61,8 @@
     <a href="https://discord.com/users/670030102490382346">
         <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
     </a>
+</div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:AEAEAE,100:FAFAFA&textBg=false&section=footer&fontColor=FFFFFF">
 </div>
