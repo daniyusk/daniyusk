@@ -58,6 +58,9 @@
 <h2 align="center">💫 GET IN TOUCH</h2>
 
 <div align="center">
+    <a href="mailto:daniyusk.dev@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="E-mail" />
+    </a>
     <a href="https://discord.com/users/670030102490382346">
         <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
     </a>
