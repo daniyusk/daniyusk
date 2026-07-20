@@ -26,22 +26,26 @@
     <p><strong>Languages</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages" />
     <br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,lua,haxe" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs" alt="Languages" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=haxe,lua,rust" alt="Languages" />
     <br><br>
     <p><strong>Frameworks & Libraries</strong></p>
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,haxeflixel,vite" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,vite" alt="Frameworks" />
     <br>
-    <img src="https://skillicons.dev/icons?i=net,discordjs" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=tailwind,tauri,prisma,discordjs,net" alt="Frameworks" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=haxeflixel,selenium" alt="Frameworks" />
     <br><br>
     <p><strong>Databases</strong></p>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
     <br><br>
     <p><strong>Tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,visualstudio,idea" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,visualstudio" alt="Tools" />
     <br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,gamemakerstudio,unity,godot,robloxstudio" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio,gamemakerstudio,unity" alt="Tools" />
     <br>
-    <img src="https://skillicons.dev/icons?i=figma,obsidian" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=godot,robloxstudio,figma,obsidian" alt="Tools" />
 </div>
 
 ---
@@ -57,7 +61,10 @@
 
 <h2 align="center">💫 GET IN TOUCH</h2>
 
-<div align="center">
+<div align="center">linkedin
+    <a href="[mailto:daniyusk.dev@gmail.com](https://www.linkedin.com/in/daniel-senzaki-132905407/)">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="Linkedin" />
+    </a>
     <a href="mailto:daniyusk.dev@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="E-mail" />
     </a>
