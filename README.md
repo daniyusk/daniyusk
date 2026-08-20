@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:AEAEAE,100:FAFAFA&text=Daniyusk%20Github's&textBg=false&section=header&fontColor=FFFFFF" alt="Daniyusk's Github" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9D00FF,100:7F00FF&text=Daniyusk%20Github's&textBg=false&section=header&fontColor=FFFFFF" alt="Daniyusk's Github" />
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Bytesized&pause=1000&color=BFC4D4&center=true&vCenter=true&repeat=false&width=435&lines=In+constant+debug+%E2%80%94+of+life+and+code." alt="In constant debug - of life and code" />
 </div>
@@ -74,5 +74,5 @@
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:AEAEAE,100:FAFAFA&textBg=false&section=footer&fontColor=FFFFFF">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9D00FF,100:7F00FF&textBg=false&section=footer&fontColor=FFFFFF">
 </div>
