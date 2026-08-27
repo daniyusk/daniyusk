@@ -51,13 +51,13 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/daniel-senzaki-132905407">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="Linkedin" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>
     <a href="mailto:daniyusk.dev@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="E-mail" />
+        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
     </a>
     <a href="https://discord.com/users/670030102490382346">
-        <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
 </div>
 
